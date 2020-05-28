@@ -1,0 +1,24 @@
+{
+  "name": "ra-language-azerbaijani",
+  "version": "1.0.0",
+  "description": "Azerbaijani messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberlake/ra-language-azerbaijani.git"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "translation"
+  ],
+  "author": "Amil Osmanli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyberlake/ra-language-azerbaijani/issues"
+  },
+  "homepage": "https://github.com/cyberlake/ra-language-azerbaijani#readme"
+}
